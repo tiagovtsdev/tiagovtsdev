@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Tiago!
 
 <div align="center">
-  <h3> • I am a Systems Analysis and Development student and enjoy front-end development.</h3>
+  <h3> I am a Systems Analysis and Development student and enjoy front-end development.</h3>
   <img src="https://raw.githubusercontent.com/tiagovtsdev/tiagovtsdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
