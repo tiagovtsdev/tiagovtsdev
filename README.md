@@ -25,9 +25,9 @@
 ---
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=tiagovtsdev&icon=0&color=blue" alt="Visit Count" />
-  </a>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://komarev.com/ghpvc/?username=tiagovtsdev&style=for-the-badge&color=blue" alt="Visit Count" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
