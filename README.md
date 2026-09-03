@@ -2,7 +2,6 @@
 
 <div align="center">
   <h3> • I am a Systems Analysis and Development student and enjoy front-end development.</h3>
-  <br>
   <img src="https://raw.githubusercontent.com/tiagovtsdev/tiagovtsdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
@@ -26,7 +25,7 @@
 ---
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=tiagovtsdev&icon=0&color=0" alt="Visit Count" />
+    <img src="https://komarev.com/ghpvc/?username=tiagovtsdev&icon=0&color=blue" alt="Visit Count" />
   </a>
 </div>
 
