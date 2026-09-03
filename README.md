@@ -24,8 +24,8 @@
 
 ---
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=tiagovtsdev&icon=0&color=0" alt="Visit Count" />
+  <a href="https://github.com">
+    <img src="https://glitch.me" alt="Visit Count" />
   </a>
 </div>
 
