@@ -11,28 +11,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     
-    # 1. ESTA É A CORREÇÃO DO ERRO 403 (Permissão de escrita)
     permissions:
       contents: write 
 
     steps:
-      # 2. Atualizado para v4 (Remove o aviso do Node.js 20)
       - uses: actions/checkout@v4
 
-      # 3. Atualizado para a versão mais recente do gerador da cobrinha (Remove os avisos de set-output)
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: tiagovtsdev
-          # A sintaxe nova da v3 usa 'outputs' no lugar de gif_out_path e svg_out_path
           outputs: |
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
 
       - run: git status
 
-      # 4. Envia os arquivos gerados na pasta "dist" para a branch "output"
-      # Atualizado para a versão mais recente do crazy-max
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
