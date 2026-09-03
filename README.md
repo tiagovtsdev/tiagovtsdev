@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://instagram.com/tiago.vts" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-INSTAGRAM-1e1e2e?style=for-the-badge&logo=instagram&logoColor=white&colorA=black&colorB=1e1e2e" loading="lazy" />
+    <img src="https://img.shields.io/badge/-INSTAGRAM-1e1e2e?style=for-the-badge&logo=instagram&logoColor=white&colorA=black&colorB=1e1e2e" />
   </a>
 </div>
 
@@ -25,9 +25,13 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://komarev.com/ghpvc/?username=tiagovtsdev&style=for-the-badge&color=blue" alt="Visit Count" />
+  <a href="https://www.microsoft.com/en-us/windows/?r=1" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/OS-WINDOWS-1e1e2e?style=for-the-badge&logo=windows&logoColor=white&colorA=black&colorB=1e1e2e" alt="Windows" />
+  </a>
+  <a href="https://code.visualstudio.com/" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/IDE-VS_CODE-1e1e2e?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=black&colorB=1e1e2e" alt="VS Code" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=tiagovtsdev&style=for-the-badge&label=PROFILE%20VIEWS&color=1e1e2e&colorA=black&colorB=1e1e2e&logo=github&logoColor=white" alt="Visit Count" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
