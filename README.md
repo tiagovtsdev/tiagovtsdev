@@ -46,12 +46,6 @@
     <img src="https://img.shields.io/badge/IDE-VS_CODE-1e1e2e?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=black&colorB=1e1e2e" alt="VS Code" title="Visual Studio Code" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=tiagovtsdev&style=for-the-badge&label=PROFILE%20VIEWS&color=1e1e2e&colorA=black&colorB=1e1e2e&logo=github&logoColor=white" alt="Visit Count" />
-  <a href="https://github.com/tiagovtsdev?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/tiagovtsdev?style=for-the-badge&label=Stars&logoColor=white&colorA=black&colorB=1e1e2e&logo=github" />
-  </a>
-  <a href="https://github.com/tiagovtsdev?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/tiagovtsdev?style=for-the-badge&label=Followers&logoColor=white&colorA=black&colorB=1e1e2e&logo=github" />
-  </a>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
