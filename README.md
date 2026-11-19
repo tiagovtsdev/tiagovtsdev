@@ -2,7 +2,7 @@
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="28"> Hey, I'm Tiago!
 
 <div align="center">
-  <h3>Hi guys</h3>
+  <h3>Don't give up on your goals</h3>
   <!-- Contribution Snake -->
   <img src="https://raw.githubusercontent.com/tiagovtsdev/tiagovtsdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
