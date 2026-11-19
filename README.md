@@ -26,15 +26,6 @@
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tiagovtsdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-<!-- GitHub Trophies -->
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" width="28"> GitHub Trophies 
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tiagovtsdev&theme=darkhub&no-frame=false&no-bg=true&margin-w=15" alt="tiagovtsdev GitHub Trophies" title="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 <!-- Other details -->
